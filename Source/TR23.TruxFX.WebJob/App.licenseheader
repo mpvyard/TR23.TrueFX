@@ -1,0 +1,14 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs
+// Copyright (C) SquidEyes, LLC. - All Rights Reserved
+// Unauthorized copying of this file, via any medium is strictly prohibited
+// Proprietary and Confidential
+// Written by Louis S. Berman <louis@squideyes.com>, %CurrentMonth%/%CurrentDay%/%CurrentYear%
+
+extensions: .xml .config .xsd
+<!--
+// Copyright (C) SquidEyes, LLC. - All Rights Reserved
+// Unauthorized copying of this file, via any medium is strictly prohibited
+// Proprietary and Confidential
+// Written by Louis S. Berman <louis@squideyes.com>, %CurrentMonth%/%CurrentDay%/%CurrentYear%
+-->
